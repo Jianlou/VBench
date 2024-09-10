@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+vbench_models/
+vbench_videos/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
